@@ -1,6 +1,6 @@
+Here’s the full `README.md` content in **Markdown format**:
 
-markdown
-Copy
+```markdown
 # imageInfo
 
 ![imageInfo Screenshot](screenshots/main_interface.png) <!-- Add a screenshot if available -->
@@ -45,66 +45,77 @@ To run **imageInfo**, ensure the following tools are installed on your system:
    Install the required Python libraries using `pip`:
    ```bash
    pip install pillow pyperclip
-Clone the Repository:
-Clone the repository to your local machine:
+   ```
 
-bash
-Copy
-git clone https://github.com/ALSRKAL/imageInfo.git
-cd imageInfo
-Run the Application:
-Start the application:
+2. **Clone the Repository**:
+   Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/ALSRKAL/imageInfo.git
+   cd imageInfo
+   ```
 
-bash
-Copy
-python image_info.py
-Usage
-Loading an Image:
+3. **Run the Application**:
+   Start the application:
+   ```bash
+   python image_info.py
+   ```
 
-Launch the application.
+---
 
-Click Open Image to select an image file (JPEG or PNG).
+## Usage
 
-View the metadata and GPS location (if available) in the respective textboxes.
+1. **Loading an Image**:
+   - Launch the application.
+   - Click **Open Image** to select an image file (JPEG or PNG).
+   - View the metadata and GPS location (if available) in the respective textboxes.
 
-Google Maps Integration:
+2. **Google Maps Integration**:
+   - If GPS data is available, click **Open in Google Maps** to view the location on Google Maps.
+   - Use the **Copy URL** button to copy the Google Maps URL to the clipboard.
 
-If GPS data is available, click Open in Google Maps to view the location on Google Maps.
+3. **Saving Metadata**:
+   - Click **Save Metadata** to save the metadata and GPS information to a text file.
 
-Use the Copy URL button to copy the Google Maps URL to the clipboard.
+---
 
-Saving Metadata:
+## Screenshots
 
-Click Save Metadata to save the metadata and GPS information to a text file.
+![Main Interface](screenshots/main_interface.png) <!-- Add a screenshot if available -->
 
-Screenshots
-Main Interface <!-- Add a screenshot if available -->
+---
 
-Contributing
+## Contributing
+
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
-Fork the repository.
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Commit your changes.
+4. Submit a pull request.
 
-Create a new branch for your feature or bugfix.
+---
 
-Commit your changes.
+## License
 
-Submit a pull request.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+---
 
-Acknowledgments
-Inspired by various image metadata extraction tools.
+## Acknowledgments
 
-Thanks to the open-source community for providing the libraries used in this project.
+- Inspired by various image metadata extraction tools.
+- Thanks to the open-source community for providing the libraries used in this project.
 
-Contact
+---
+
+## Contact
+
 For questions or feedback, feel free to reach out:
 
-GitHub: ALSRKAL
+- **GitHub**: [ALSRKAL](https://github.com/ALSRKAL)
+- **Email**: [mohammedalsrkal@gmail.com](mailto:mohammedalsrkal@gmail.com)
 
-Email: mohammedalsrkal@gmail.com
+---
 
-Enjoy using imageInfo! 🚀
-
+Enjoy using **imageInfo**! 🚀
+```
