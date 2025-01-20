@@ -55,7 +55,7 @@ To run **imageInfo**, ensure the following tools are installed on your system:
 3. **Run the Application**:
    Start the application:
    ```bash
-   python image_info.py
+   python imageInfo.py
    ```
 
 ---
