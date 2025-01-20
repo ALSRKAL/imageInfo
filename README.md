@@ -1,3 +1,6 @@
+
+markdown
+Copy
 # imageInfo
 
 ![imageInfo Screenshot](screenshots/main_interface.png) <!-- Add a screenshot if available -->
@@ -104,3 +107,4 @@ GitHub: ALSRKAL
 Email: mohammedalsrkal@gmail.com
 
 Enjoy using imageInfo! 🚀
+
