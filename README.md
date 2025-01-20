@@ -1,9 +1,7 @@
-Here’s the full `README.md` content in **Markdown format**:
 
-```markdown
 # imageInfo
 
-![imageInfo Screenshot](screenshots/main_interface.png) <!-- Add a screenshot if available -->
+![imageInfo Screenshot](screenshot/1.png) <!-- Add a screenshot if available -->
 
 **imageInfo** is a Python-based GUI application designed to extract and display metadata and GPS location (if available) from image files (JPEG, PNG). It also provides functionality to open the location in Google Maps, copy the URL to the clipboard, and save metadata to a text file.
 
@@ -80,7 +78,7 @@ To run **imageInfo**, ensure the following tools are installed on your system:
 
 ## Screenshots
 
-![Main Interface](screenshots/main_interface.png) <!-- Add a screenshot if available -->
+![Main Interface](screenshot/2.png) <!-- Add a screenshot if available -->
 
 ---
 
