@@ -1,4 +1,3 @@
-# imageInfo
 imageInfo
 imageInfo is a Python-based GUI application designed to extract and display metadata and GPS location (if available) from image files (JPEG, PNG). It also provides functionality to open the location in Google Maps, copy the URL to the clipboard, and save metadata to a text file.
 
@@ -100,3 +99,5 @@ GitHub: ALSRKAL
 Email: mohammedalsrkal@gmail.com
 
 Enjoy using imageInfo! 🚀
+
+Notes:
