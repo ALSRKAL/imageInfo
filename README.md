@@ -117,11 +117,3 @@ For questions or feedback, feel free to reach out:
 
 Enjoy using **imageInfo**! 🚀
 ```
-
-### How to Use:
-1. Copy the entire content above.
-2. Paste it into a new file named `README.md` in your repository.
-3. Replace `screenshots/main_interface.png` with the actual path to your screenshot (if available).
-4. Ensure the `LICENSE` file is present in your repository.
-
-This is a complete and ready-to-use Markdown file for your GitHub project!
